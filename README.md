@@ -1,8 +1,6 @@
 ### Salve, Devs!!
-a
-<! --
-**Nathan-PA/Nathan-PA** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
--->
+
+Meu nome é Nathan Pagliari Augusto, tenho 19 anos e atualmente estou no 3° semestre de Analise e Desenvolvimento de Sistemas pela FIAP, onde já tive contato com: Java, Python, Oracle SQL, Desenvolvimento Web(HTML/CSS/Javascript), IA, ChatBot e metodologia ágil, também sou formado em técnico em mecatrônica, atualmente estou a procura da minha 1 oportunidade de estágio na área de desenvolvimento; Além da área de TI também gosto de estudar finanças e mercado decentralizado.
 
 ### Contatos:
 <div>
