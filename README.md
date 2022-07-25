@@ -1,9 +1,8 @@
 ## Nathan Pagliari Augusto
 
-### Salve, Devs!!
+### Salve, rapeize!!
 
-Meu nome é Nathan Pagliari Augusto, tenho 19 anos e atualmente estou no 3° semestre de Analise e Desenvolvimento de Sistemas pela FIAP, também sou formado em técnico em mecatrônica, atualmente estou a procura da minha 1 oportunidade de estágio na área de desenvolvimento; Além da área de TI também gosto de estudar finanças e mercado decentralizado.
-
+Meu nome é Nathan Pagliari , tenho 19 anos e atualmente estou no 4° semestre de Analise e Desenvolvimento de Sistemas pela FIAP e formado em técnico em mecatrônica, atualmente estou a procura da minha 1 oportunidade de estágio na área de desenvolvimento; 
 
 ### Contatos:
 <div>
