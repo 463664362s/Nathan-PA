@@ -1,7 +1,4 @@
-## Nathan Pagliari Augusto
-
-### Salve, rapeize!!
-
+## Nathan 
 Estudante no 4° semestre de Analise e Desenvolvimento de Sistemas pela FIAP e formado em técnico em mecatrônica, atualmente estou a procura da minha 1 oportunidade de estágio na área de desenvolvimento; 
 
 ### Contatos:
