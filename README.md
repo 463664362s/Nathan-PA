@@ -8,10 +8,15 @@
 
 🔗 Análise e Desenvolvimento de Sistemas<br>
 💻 Desenvolvedor Full-Stack<br>
-📚 Estudande FIAP
+📚 FIAP
 
-<a href = "mailto:contato@Nathan-PA/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-<a href="https://www.linkedin.com/in/nathan-pa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>   
+<a href = "mailto:contato@Nathan-PA/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://discord.com/channels/@me guizao#3565" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/>
+<a href = "https://expo.dev/accounts/nathan-pa/snacks" target="_blank"><img src="https://miro.medium.com/max/1400/1*sSxTTLMRuw8-4pUWI0sxGQ.png"  width="74" height="28"/> 
+<a href = "https://www.linkedin.com/in/nathan-pa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>   
+<a href="mailto:contato@Nathan-PA/" target="_blank" >
+    <img alt="Email" src="https://komarev.com/ghpvc/?username=Nathan-PA&color=blueviolet&style=flat-square"></a>
+
 
 ##
 
@@ -25,7 +30,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>      
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/> 
           
